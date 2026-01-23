@@ -46,9 +46,4 @@ Aberto a oportunidades **CLT**, **freelancers** e **projetos colaborativos**, es
 
 ---
 
-## 📫 Vamos nos conectar?
-- 💼 LinkedIn: *adicione aqui*
-- 📸 Instagram: *adicione aqui*
-- 🌐 Portfólio: *em construção*
-
 Sempre aberto a trocar ideias, aprender e construir coisas relevantes 🚀
