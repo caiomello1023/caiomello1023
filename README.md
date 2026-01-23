@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Caio Mello
 
-<!--
-**caiomello1023/caiomello1023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Front-end Developer em formação**  
+📈 **Background em Marketing Digital, Growth e Performance**
 
-Here are some ideas to get you started:
+Desenvolvo **interfaces modernas, responsivas e focadas em conversão**, unindo código, experiência do usuário e visão de negócio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mim
+Atualmente estou na reta final da minha formação em **Front-end**, com foco em criar experiências digitais que não apenas funcionam bem, mas **geram resultado**.
+
+Meu diferencial está na combinação entre:
+- Desenvolvimento Front-end
+- Estratégia de Marketing Digital
+- Otimização de experiência e conversão
+
+Acredito que bons produtos digitais nascem da junção entre **tecnologia, usabilidade e objetivo de negócio**.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **React**
+- **Git & GitHub**
+
+---
+
+## 📌 O que você vai encontrar por aqui
+- Projetos Front-end desenvolvidos do zero  
+- Interfaces responsivas e componentizadas  
+- Estudos de UI/UX e performance  
+- Experimentos unindo **código + marketing + conversão**  
+- Evolução contínua como desenvolvedor
+
+---
+
+## 📈 Objetivo profissional
+Aberto a oportunidades **CLT**, **freelancers** e **projetos colaborativos**, especialmente em ambientes que valorizam:
+- Produto
+- Performance
+- Experiência do usuário
+- Crescimento orientado a dados
+
+---
+
+## 📫 Vamos nos conectar?
+- 💼 LinkedIn: *adicione aqui*
+- 📸 Instagram: *adicione aqui*
+- 🌐 Portfólio: *em construção*
+
+Sempre aberto a trocar ideias, aprender e construir coisas relevantes 🚀
