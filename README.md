@@ -8,7 +8,7 @@ Desenvolvo **interfaces modernas, responsivas e focadas em conversão**, unindo 
 ---
 
 ## 🚀 Sobre mim
-Atualmente estou na reta final da minha formação em **Front-end**, com foco em criar experiências digitais que não apenas funcionam bem, mas **geram resultado**.
+Recem formado Desenvolvedor **Front-end**, com foco em criar experiências digitais que não apenas funcionam bem, mas **geram resultado**.
 
 Meu diferencial está na combinação entre:
 - Desenvolvimento Front-end
