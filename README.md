@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Caio Mello
 
-💻 **Front-end Developer em formação**  
+💻 **Front-end Developer**  
 📈 **Background em Marketing Digital, Growth e Performance**
 
 Desenvolvo **interfaces modernas, responsivas e focadas em conversão**, unindo código, experiência do usuário e visão de negócio.
